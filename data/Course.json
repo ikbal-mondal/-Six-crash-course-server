@@ -5,7 +5,7 @@
         "category_id": "01",
         "premiumId": "01",
         "title": "web development",
-        "Course Fees":356,
+        "Course_Fees":356,
         "days":90 ,
         "image_url": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141855587/original/ea5d41ee7ec15685bcf7e6cb015d3b918e58a2b7/do-responsive-front-end-web-development-in-react-nodejs-html-css-bootstrap.jpg",
         "details": "Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science degrees will need to continually upskill in this field to stay ahead. * What you will learn from this course? By learning HTML, CSS , bootstrap, tailwind, javascript , react , node js , express js , etc"
@@ -16,7 +16,7 @@
         "category_id": "02",
         "premiumId": "02",
         "title": "Digital Marketing",
-        "Course Fees":264,
+        "Course_Fees":264,
         "days":60 ,
         "image_url": "https://vrc-market.com/wp-content/uploads/2022/08/Digital-Marketing-Course.jpg",
         "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel. Essentially, if a marketing campaign involves digital communication, it's digital marketing"
@@ -27,7 +27,7 @@
         "category_id": "03",
         "premiumId": "03",
         "title": "Graphic Design",
-        "Course Fees":698,
+        "Course_Fees":698,
         "days":120 ,
         "image_url": "https://digitaltribe.ae/wp-content/uploads/2021/05/Graphic-designing.jpg",
         "details": "Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports."
@@ -38,7 +38,7 @@
         "category_id": "04",
         "premiumId": "04",
         "title": "Blog Writing",
-        "Course Fees":245,
+        "Course_Fees":245,
         "days":60 ,
         "image_url": "https://epicful.com/wp-content/uploads/2020/05/shutterstock_607080881.jpg",
         "details": "The potential for blogging is virtually unlimited. Well-established bloggers like Ryan Robinson—who runs a blog about blogging—can make upward of $30,000 per month. Adam Enfroy, who started blogging about the business of blogging in 2019 as a side hustle, generated $1.5 million from his blog just two years later"
@@ -49,7 +49,7 @@
         "category_id": "05",
         "premiumId": "05",
         "title": "Photography",
-        "Course Fees":380,
+        "Course_Fees":380,
         "days":90 ,
         "image_url": "https://images.shiksha.com/mediadata/images/articles/1568193656phpmWI2xq.jpeg",
         "details": "Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication"
@@ -60,7 +60,7 @@
         "category_id": "06",
         "premiumId": "06",
         "title": "Computer engineering",
-        "Course Fees":999,
+        "Course_Fees":999,
         "days":160 ,
         "image_url": "https://www.franklin.edu/sites/default/files/styles/btcb_photo/public/fr/back%20to%20college%20blog/main%20images/two%20computer%20science%20professionals%20using%20equipment.jpg?itok=MrpsVcwO",
         "details": "The computer science field is full of exciting, diverse, and high-growth careers, ranging from software development to cybersecurity. Computer science employment are expected to grow by 13% between 2020 and 2030, according to the latest estimates by various researchesComputer engineers manage and design the computer hardware and software systems of a company. These skilled individuals may specialize in hardware or software and are often referred to as programmers"

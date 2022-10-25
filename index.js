@@ -5,30 +5,22 @@ app.use(cors());
 
 const Port = process.env.Port || 5000;
 
-const CourseCollection = require("./Data/Course.json");
-
+const AllCourseCollection = require("./Data/Course.json");
+ const categories = require('./data/Category.json')
 app.get("/", (req, res) => {
   res.send("Now server is running");
 });
 
 app.get("/allCourse", (req, res) => {
-  res.send(CourseCollection);
+  res.send(AllCourseCollection);
 });
 
-app.get("/course/:id", (req, res) => {
-  const id = req.params.id;
-  const getSingleItem = CourseCollection?.find((p) => p.id == id);
-  if (!getSingleItem) {
-    res.send("Course khuje pai nai");
-  }
-  res.send(getSingleItem);
-});
+app.get('/course-categories', (req,res) => {
 
-app.get("/category/:name", (req, res) => {
-  const name = req.params.name;
-  const getCategory = CourseCollection?.filter((p) => p.category == name);
-  res.send(getCategory);
-});
+  res.send(categories)
+})
+
+
 
 app.listen(Port, () => {
   console.log("server is running", Port);
