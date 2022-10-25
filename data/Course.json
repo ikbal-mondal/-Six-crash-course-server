@@ -1,0 +1,14 @@
+[
+
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "title": "web development",
+        "Course Fees":356,
+        "days":90 ,
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science degrees will need to continually upskill in this field to stay ahead. * What you will learn from this course? By learning HTML, CSS , bootstrap, tailwind, javascript , react , node js , express js , etc"
+
+      }
+
+]
