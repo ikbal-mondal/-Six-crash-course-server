@@ -1,13 +1,65 @@
 [
 
     {
-        "id": "pre_1",
-        "category_id": "01",
+        "id": "fh56d55d65s44485ds4ss",
+        "premiumId": "01",
         "title": "web development",
         "Course Fees":356,
         "days":90 ,
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-         "happy journey": "welcome to web development course"
+        "image_url": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141855587/original/ea5d41ee7ec15685bcf7e6cb015d3b918e58a2b7/do-responsive-front-end-web-development-in-react-nodejs-html-css-bootstrap.jpg",
+         "happy journey": "welcome to web development course happy journey"
+      },
+     {
+        "id": "jf56d59gdd55dg5dgd5d",
+        "premiumId": "02",
+        "title": "Digital Marketing",
+        "Course Fees":264,
+        "days":60 ,
+        "image_url": "https://vrc-market.com/wp-content/uploads/2022/08/Digital-Marketing-Course.jpg",
+         "happy journey": "welcome to Digital marketing course happy journey"
+      },
+      {
+        "_id": "f4sfd45dsf5d54g46dsf4d64dg",
+        "category_id": "03",
+        "premiumId": "03",
+        "title": "Graphic Design",
+        "Course Fees":698,
+        "days":120 ,
+        "image_url": "https://digitaltribe.ae/wp-content/uploads/2021/05/Graphic-designing.jpg",
+        "happy journey": "welcome to Graphic Design course happy journey"
+
+      },
+      {
+        "_id": "jf6569sf5sfs6saf54sd5fs76",
+        "category_id": "04",
+        "premiumId": "04",
+        "title": "Blog Writing",
+        "Course Fees":245,
+        "days":60 ,
+        "image_url": "https://epicful.com/wp-content/uploads/2020/05/shutterstock_607080881.jpg",
+        "happy journey": "welcome to Blog Writing course happy journey"
+
+      },
+      {
+        "_id": "h5sf5f564df5ss6f5ds",
+        "category_id": "05",
+        "premiumId": "05",
+        "title": "Photography",
+        "Course Fees":380,
+        "days":90 ,
+        "image_url": "https://images.shiksha.com/mediadata/images/articles/1568193656phpmWI2xq.jpeg",
+        "happy journey": "welcome to Photography course happy journey"
+
+      },
+      {
+        "_id": "g45f6dg4g564gd6g4g654",
+        "category_id": "06",
+        "premiumId": "06",
+        "title": "Computer engineering",
+        "Course Fees":999,
+        "days":160 ,
+        "image_url": "https://www.franklin.edu/sites/default/files/styles/btcb_photo/public/fr/back%20to%20college%20blog/main%20images/two%20computer%20science%20professionals%20using%20equipment.jpg?itok=MrpsVcwO",
+        "happy journey": "welcome to Computer engineering course happy journey"
 
       }
 
